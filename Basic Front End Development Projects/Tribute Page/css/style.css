@@ -1,0 +1,21 @@
+body {
+  margin-top: 60px;
+}
+
+p {
+  font-size : 15px;
+  font-family: sans-serif;
+}
+
+.content {
+  text-align: justify;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer {
+  text-align: center; 
+}

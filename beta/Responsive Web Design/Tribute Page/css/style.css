@@ -1,0 +1,45 @@
+#main {
+  margin: 60px;
+}
+#title {
+  text-align: center;
+}
+#sub-title {
+  text-align: center;
+  margin-bottom: 25px;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-caption {
+  margin: 15px;
+  text-align: center;
+}
+#tribute-info {
+    text-align: justify;
+}
+p {
+  font-size : 15px;
+  font-family: sans-serif;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.thumbnail {
+
+}
+.books {
+  height: 300px !important;
+}
+#footer {
+  text-align: center; 
+  color: DimGray ;
+  font-family:"Amatic SC";
+  font-size: 30px;
+  text-decoration: none;
+  margin-bottom:0px;
+}
